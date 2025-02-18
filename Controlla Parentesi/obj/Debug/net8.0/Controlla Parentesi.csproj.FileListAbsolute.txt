@@ -1,0 +1,14 @@
+C:\Users\zxt02\Documents\inf\Visual Studio 2022 C#\Controlla Parentesi\Controlla Parentesi\obj\Debug\net8.0\Controlla Parentesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zxt02\Documents\inf\Visual Studio 2022 C#\Controlla Parentesi\Controlla Parentesi\obj\Debug\net8.0\Controlla Parentesi.AssemblyInfoInputs.cache
+C:\Users\zxt02\Documents\inf\Visual Studio 2022 C#\Controlla Parentesi\Controlla Parentesi\obj\Debug\net8.0\Controlla Parentesi.AssemblyInfo.cs
+C:\Users\zxt02\Documents\inf\Visual Studio 2022 C#\Controlla Parentesi\Controlla Parentesi\obj\Debug\net8.0\Controlla Parentesi.csproj.CoreCompileInputs.cache
+C:\Users\zxt02\Documents\inf\Visual Studio 2022 C#\Controlla Parentesi\Controlla Parentesi\bin\Debug\net8.0\Controlla Parentesi.exe
+C:\Users\zxt02\Documents\inf\Visual Studio 2022 C#\Controlla Parentesi\Controlla Parentesi\bin\Debug\net8.0\Controlla Parentesi.deps.json
+C:\Users\zxt02\Documents\inf\Visual Studio 2022 C#\Controlla Parentesi\Controlla Parentesi\bin\Debug\net8.0\Controlla Parentesi.runtimeconfig.json
+C:\Users\zxt02\Documents\inf\Visual Studio 2022 C#\Controlla Parentesi\Controlla Parentesi\bin\Debug\net8.0\Controlla Parentesi.dll
+C:\Users\zxt02\Documents\inf\Visual Studio 2022 C#\Controlla Parentesi\Controlla Parentesi\bin\Debug\net8.0\Controlla Parentesi.pdb
+C:\Users\zxt02\Documents\inf\Visual Studio 2022 C#\Controlla Parentesi\Controlla Parentesi\obj\Debug\net8.0\Controlla Parentesi.dll
+C:\Users\zxt02\Documents\inf\Visual Studio 2022 C#\Controlla Parentesi\Controlla Parentesi\obj\Debug\net8.0\refint\Controlla Parentesi.dll
+C:\Users\zxt02\Documents\inf\Visual Studio 2022 C#\Controlla Parentesi\Controlla Parentesi\obj\Debug\net8.0\Controlla Parentesi.pdb
+C:\Users\zxt02\Documents\inf\Visual Studio 2022 C#\Controlla Parentesi\Controlla Parentesi\obj\Debug\net8.0\Controlla Parentesi.genruntimeconfig.cache
+C:\Users\zxt02\Documents\inf\Visual Studio 2022 C#\Controlla Parentesi\Controlla Parentesi\obj\Debug\net8.0\ref\Controlla Parentesi.dll
